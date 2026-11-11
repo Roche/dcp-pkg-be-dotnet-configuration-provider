@@ -1,0 +1,8 @@
+{
+  "SecretConfigurationProvider": {
+    "Driver": "File",
+    "Settings": {
+      "Path": "secrets.json"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "SecretConfigurationProvider": {
+    "Driver": "HashiCorpVault",
+    "Settings": {
+      "Address": "https://consul.example.com",
+      "Port": 443
+    }
+  }
+}
